@@ -12,7 +12,6 @@
 	<description>Demo project for Spring Boot</description>
 
 
-    <name>spring-boot-demo</name>
     <url></url>
 
     <parent>
